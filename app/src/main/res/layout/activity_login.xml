@@ -8,7 +8,7 @@
     android:orientation="vertical"
     android:fillViewport="true"
     android:fitsSystemWindows="true"
-    tools:context="in.insideandroid.template.LoginActivity">
+    tools:context=".LoginActivity">
 
     <RelativeLayout
         android:layout_width="match_parent"
